@@ -1,2 +1,2 @@
 # urekaDataScience
-# Weekly task submissions during my internship period (22/06-17/08)  
+#Weekly task submissions during my internship period with UREKA (22/06-17/08)  
