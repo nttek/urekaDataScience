@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+
+<head>
+ <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='CSS_for_Textbox.css') }}">
+</head>
+ <body>
+<div class="wrapper">
+
+<div class="header">
+<h1>Simple Search</h1>
+</div>
+
+<div class="body">
+ 
+<br>
+<br>
+<div class="border">
+<br>
+<br>
+<div class="marginformleft"> 
+
+<form action = "{{ url_for('updateresult') }}" method = "POST">
+<p>Enter Your Query (e.g. python) </p><input type="text" name="name" value="" size="45" maxlength="45" autofocus><br>
+ 
+</div>
+
+<center>
+<input type="submit" value="submit">
+</center>
+</form>
+ </div>
+
+<br>
+<br>
+
+
+      
+ </div>
+
+</div>
+      
+   </body>
+</html>
