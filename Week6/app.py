@@ -57,9 +57,9 @@ def tag_query(key_tag):
     word_split = str(key_tag).split()
     sum_dict = {}
 
-    for i in word_split:
+    for word in word_split:
         temp_dict = {}
-        edges = list(G.edges(str(key_tag))) #returns a list of all the edges from EdgeDataView
+        edges = list(G.edges(word)) #returns a list of all the edges from EdgeDataView
 
         for edge in edges:
             x = G.get_edge_data(edge[0],edge[1])
