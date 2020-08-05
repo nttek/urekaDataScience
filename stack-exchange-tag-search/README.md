@@ -9,12 +9,12 @@ This **[mini webapp](https://stack-exchange-tag-search.herokuapp.com/search)** i
 The app has two pages. 
 
 Search/Home page:
-[Home page](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-search/App%20screenshots/Home%20page.png)
+![Home page](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-search/App%20screenshots/Home%20page.png)
 
 
 
 Results page:
-[Results page](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-search/App%20screenshots/Results%20page.png)
+![Results page](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-search/App%20screenshots/Results%20page.png)
 
 Future improvements
 
