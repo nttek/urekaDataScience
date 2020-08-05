@@ -16,4 +16,4 @@ Future improvements
 
 - Implementation of a database feature to enable efficient management of large sets of records.
 - Introducing new Machine Learning algorithms to enhance results.
-- Additionally some parts of the code will be revised and made more readable along the process
+- Moreover, some parts of the code will be revised and made more readable along the process
