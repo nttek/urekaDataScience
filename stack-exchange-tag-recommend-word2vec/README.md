@@ -10,6 +10,11 @@ The findings include
 
 The above mentioned findings can be shown in the following tag recommendation results. The term 'deep-learning' were used on both methods and on the Stack Exchange web search.
 
+https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/stack-exchange2.png
+
+https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/graph.png
+
+https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/word2vec.png
 
 
 Next steps
