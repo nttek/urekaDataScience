@@ -11,7 +11,7 @@ The findings include
 The above mentioned findings can be shown in the following tag recommendation results. The term 'deep-learning' was searched for using both algorithms and on the Stack Exchange data science site.
 
 
-In stack-exchange          |  Wghted-graph based brute-force          |  Word2vec
+In stack-exchange          |  Brute-force graph based                 |  Word2vec
 :-------------------------:|:----------------------------------------:|:-------------------------:
 ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/stack-exchange3.png)  |  ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/graph2.png)  |  ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/word2vec2.png)
 
