@@ -8,11 +8,12 @@ The findings include
 3. The graph algorithm was made to be more vocabulary rich by splitting hyphen separated words during the preprocessing . Whereas word2vec method didn't return results for some tag inquiries very close to what was given in the given documents (e.g. datascience).
 4. Word2vec model changes in every new training although the training data was kept unchanged.
 
-The above mentioned findings can be shown in the following tag recommendation results. The term 'deep-learning' were used on both methods and on the Stack Exchange web search.
+The above mentioned findings can be shown in the following tag recommendation results. The term 'deep-learning' was searched for using both algorithms and on the Stack Exchange data science site.
 
-Solarized dark             |  Solarized Ocean             |  Solarized Ocean
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/stack-exchange.png)  |  ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/graph2.png)  |  ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/word2vec2.png)
+
+In stack-exchange          |  Wghted-graph based brute-force          |  Word2vec
+:-------------------------:|:----------------------------------------:|:-------------------------:
+![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/stack-exchange3.png)  |  ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/graph2.png)  |  ![](https://github.com/nttek/urekaDataScience/blob/master/stack-exchange-tag-recommend-word2vec/ipynb/Data/word2vec2.png)
 
 
 Next steps
